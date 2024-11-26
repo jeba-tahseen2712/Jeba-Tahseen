@@ -1,5 +1,4 @@
 <h1 align="center">Hi There 👋, I'm Jeba Tahseen</h1>
-Welcome to my profile! 🚀
 <h3 align="center">🌐Expert in SQA, Manual & API Testing, Performance Testing, and Automation-Driven Solutions.🚀</h3>
 <br>
 🌟 Always curious, always learning.<br>  

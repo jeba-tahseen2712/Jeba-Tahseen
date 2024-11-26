@@ -2,12 +2,14 @@
   <img src="https://github.com/jeba-tahseen2712/Jeba-Tahseen/blob/main/banner.png" alt="logo">
 </p>
 
-<h1 align="center">Hello 👋, I's me Jeba Tahseen</h1>
+<h1 align="center">Hello 👋, It's me Jeba Tahseen</h1>
 <h3 align="center">🌐Expert in SQA, Manual & API Testing, Performance Testing, and Automation-Driven Solutions.🚀</h3>
 <br>
 🌟 Always curious, always learning.<br>  
 💻 Passionate about technology, creativity, and problem-solving.<br>
-✨ Let's build something amazing together! 
+✨ Deeply passionate about Research Work in the field of AI and Deep Learning! 
+<br>
+
 
 - 🔭 I’m currently working **As an SQA Trainee & Content Writter.**
 

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/jeba-tahseen2712/Jeba-Tahseen/blob/main/banner.png" alt="logo">
+</p>
+
 <h1 align="center">Hi There 👋, I'm Jeba Tahseen</h1>
 <h3 align="center">🌐Expert in SQA, Manual & API Testing, Performance Testing, and Automation-Driven Solutions.🚀</h3>
 <br>

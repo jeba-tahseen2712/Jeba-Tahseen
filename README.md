@@ -2,20 +2,18 @@
   <img src="https://github.com/jeba-tahseen2712/Jeba-Tahseen/blob/main/banner.png" alt="logo">
 </p>
 
-<h1 align="center">Hi There 👋, I'm Jeba Tahseen</h1>
+<h1 align="center">Hello 👋, I's me Jeba Tahseen</h1>
 <h3 align="center">🌐Expert in SQA, Manual & API Testing, Performance Testing, and Automation-Driven Solutions.🚀</h3>
 <br>
 🌟 Always curious, always learning.<br>  
 💻 Passionate about technology, creativity, and problem-solving.<br>
 ✨ Let's build something amazing together! 
 
-- 🔭 I’m currently working **As an SQA Trainee, I am actively seeking opportunities to advance my career and grow professionally.**
+- 🔭 I’m currently working **As an SQA Trainee & Content Writter.**
 
-- 🌱 I’m currently learning **Hands-on SQA & Cyber Security Course, It Training Bd**
+- 🌱 I’m currently learning **Hands-on SQA & Cyber Security Course, It Training Bd.**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/jeba-tahseen2712)
-
-- 💬 Ask me about **QA, AI/Data Science, Python, MySQL, Content Writing..**
 
 - 📫 How to reach me **jebatahseen11834@gmail.com**
 
